@@ -1,0 +1,11 @@
+Model Information:
+* title:	AM 1200-T Street Bike
+* source:	https://sketchfab.com/3d-models/am-1200-t-street-bike-321dc292370c4ba0b516295619447040
+* author:	twelvam (https://sketchfab.com/twelvam)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AM 1200-T Street Bike" (https://sketchfab.com/3d-models/am-1200-t-street-bike-321dc292370c4ba0b516295619447040) by twelvam (https://sketchfab.com/twelvam) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
